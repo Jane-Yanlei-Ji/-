@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>越剧精选合集</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: "Microsoft YaHei", sans-serif;
+      padding: 20px;
+      background-color: #fff8f0;
+    }
+    h1 {
+      color: #a52a2a;
+    }
+    h2 {
+      color: #444;
+      margin-top: 24px;
+    }
+    a {
+      display: block;
+      margin: 8px 0;
+      font-size: 18px;
+      text-decoration: none;
+      color: #1a73e8;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎭 越剧精选合集</h1>
+
+  <h2>赵志刚</h2>
+  <a href="https://v.qq.com/x/page/i3050k0u96r.html" target="_blank">▶ 沙漠王子（腾讯视频）</a>
+  <a href="https://www.bilibili.com/video/BV1KK411T7g8/" target="_blank">▶ 越剧选段合集（哔哩哔哩）</a>
+
+  <h2>吴凤华</h2>
+  <a href="https://list.youku.com/albumlist/show/id_51448448.html" target="_blank">▶ 狸猫换太子（优酷）</a>
+  <a href="https://www.bilibili.com/video/BV15DZNY4EeF/" target="_blank">▶ 劈山救母（哔哩哔哩）</a>
+
+  <h2>郑国凤</h2>
+  <a href="https://www.bilibili.com/video/BV14h411X7Zi/" target="_blank">▶ 孟丽君（哔哩哔哩）</a>
+  <a href="https://list.youku.com/albumlist/show/id_27902669.html" target="_blank">▶ 红楼梦（优酷）</a>
+
+  <p style="margin-top:40px;color:gray;font-size:14px;">适合长辈观看，点击即可播放，建议横屏观看</p>
+</body>
+</html>
